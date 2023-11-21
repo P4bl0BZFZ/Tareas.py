@@ -1,0 +1,10 @@
+Pais Residencia,Porcentaje Acumulado
+
+
+Interpretación del gráfico:
+El gráfico muestra el porcentaje acumulado de sueldos por país
+para los trabajadores contratados desde 2016 al 2021, donde
+los países de residencia son 'SIN DATOS'. Se han seleccionado
+los 6 países con mayor sueldo acumulado para su visualización
+en el gráfico de pastel. Cada porción del gráfico representa el
+porcentaje acumulado de sueldos de un país en relación al total.
